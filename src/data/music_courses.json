@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Python Programming",
+        "slug": "introduction-to-python-programming",
+        "description": "Learn the fundamentals of Python programming language. This course covers basic syntax, data types, control structures, and more.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://example.com/python_course.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Web Development with JavaScript",
+        "slug": "web-development-with-javascript",
+        "description": "Master the art of building interactive websites using JavaScript. This course covers DOM manipulation, AJAX, and more advanced topics.",
+        "price": 59.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://example.com/javascript_course.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Data Science with R",
+        "slug": "data-science-with-r",
+        "description": "Explore the world of data science using the R programming language. This course covers data manipulation, visualization, and statistical analysis.",
+        "price": 79.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true,
+        "image": "https://example.com/r_course.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Introduction to Machine Learning",
+        "slug": "introduction-to-machine-learning",
+        "description": "Get started with machine learning. This course covers basic algorithms, model evaluation, and practical applications.",
+        "price": 89.99,
+        "instructor": "Michael Brown",
+        "isFeatured": false,
+        "image": "https://example.com/machine_learning_course.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Graphic Design Fundamentals",
+        "slug": "graphic-design-fundamentals",
+        "description": "Learn the basics of graphic design. This course covers color theory, typography, layout, and composition.",
+        "price": 69.99,
+        "instructor": "Emily Taylor",
+        "isFeatured": true,
+        "image": "https://example.com/graphic_design_course.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Mobile App Development with Flutter",
+        "slug": "mobile-app-development-with-flutter",
+        "description": "Build cross-platform mobile apps with Flutter. This course covers Flutter widgets, state management, and Firebase integration.",
+        "price": 99.99,
+        "instructor": "David Lee",
+        "isFeatured": true,
+        "image": "https://example.com/flutter_course.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Introduction to Blockchain Technology",
+        "slug": "introduction-to-blockchain-technology",
+        "description": "Discover the fundamentals of blockchain technology. This course covers decentralized ledgers, smart contracts, and cryptocurrencies.",
+        "price": 79.99,
+        "instructor": "Alex Rodriguez",
+        "isFeatured": false,
+        "image": "https://example.com/blockchain_course.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Photography Basics",
+        "slug": "photography-basics",
+        "description": "Master the basics of photography. This course covers camera settings, composition techniques, and photo editing.",
+        "price": 49.99,
+        "instructor": "Sophia Clark",
+        "isFeatured": true,
+        "image": "https://example.com/photography_course.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Advanced Excel Techniques",
+        "slug": "advanced-excel-techniques",
+        "description": "Take your Excel skills to the next level. This course covers advanced formulas, pivot tables, and data analysis.",
+        "price": 59.99,
+        "instructor": "Daniel White",
+        "isFeatured": false,
+        "image": "https://example.com/excel_course.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Introduction to Artificial Intelligence",
+        "slug": "introduction-to-artificial-intelligence",
+        "description": "Explore the basics of artificial intelligence. This course covers AI algorithms, neural networks, and applications.",
+        "price": 79.99,
+        "instructor": "Sophie Baker",
+        "isFeatured": true,
+        "image": "https://example.com/ai_course.jpg"
+      }
+    ]
+  }
+  
